@@ -1,4 +1,4 @@
-# Cleanfolio Minimal
+# Ram Charan’s Devfolio
 
 A portfolio template built with HTML, CSS, and JavaScript.
 
