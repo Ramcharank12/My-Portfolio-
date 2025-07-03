@@ -4,7 +4,7 @@ A portfolio template built with HTML, CSS, and JavaScript.
 
 ## Preview
 
-[Live Demo]([https://my-portfolio-self-six-82.vercel.app/](https://ramcharank12.github.io/My-Portfolio-/))
+[Live Demo](https://ramcharank12.github.io/My-Portfolio-/)
 
 ## License
 
